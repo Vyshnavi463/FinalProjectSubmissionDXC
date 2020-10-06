@@ -1,0 +1,44 @@
+Seller
+
+Name of Pet:
+Age
+Place:
+Price:
+Phno:
+email:
+upload picture min 2 pics.
+
+
+Buyer 
+
+ViewPets:
+
+1.By Breed
+
+The below details should be shown
+Breed type, age,Owner   place phone email price  picture a
+
+
+2.By Age
+
+The below details should be shown
+Breed type, age,Owner   place phone email price  picture a
+
+
+3.By Place
+The below details should be shown
+Breed type, age,Owner   place phone email price  picture a
+
+
+
+4.By Price (Low -high)
+The below details should be shown
+Breed type, age,Owner   place phone email price  picture a
+
+
+5.By Price (High -low)
+
+The below details should be shown
+Breed type, age,Owner   place phone email price  picture a
+
+
